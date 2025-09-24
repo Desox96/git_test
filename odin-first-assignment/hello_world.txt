@@ -1,2 +1,0 @@
-first test inside txt
-git
